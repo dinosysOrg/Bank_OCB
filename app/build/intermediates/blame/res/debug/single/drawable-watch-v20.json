@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/drawable-watch-v20/abc_dialog_material_background.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f2e27c4306c2623f7bbd60ed9d119c2599ef646b/output/res/drawable-watch-v20/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/fdf88e5e146a5a885d61cd5fbf854a7dcb032c7a/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/fdf88e5e146a5a885d61cd5fbf854a7dcb032c7a/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/fdf88e5e146a5a885d61cd5fbf854a7dcb032c7a/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    }
+]

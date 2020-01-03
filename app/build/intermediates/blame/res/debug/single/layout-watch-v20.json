@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f2e27c4306c2623f7bbd60ed9d119c2599ef646b/output/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f2e27c4306c2623f7bbd60ed9d119c2599ef646b/output/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]

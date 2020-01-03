@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/eff23c35f7c1a2a04680c9c2ce0ef0a618c2f5ef/output/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/eff23c35f7c1a2a04680c9c2ce0ef0a618c2f5ef/output/res/interpolator/mr_fast_out_slow_in.xml"
+    }
+]

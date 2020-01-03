@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/8a1d558a37d9a6697c1fff2ea49e5eb52127624a/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/8a1d558a37d9a6697c1fff2ea49e5eb52127624a/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f2e27c4306c2623f7bbd60ed9d119c2599ef646b/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f2e27c4306c2623f7bbd60ed9d119c2599ef646b/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f2e27c4306c2623f7bbd60ed9d119c2599ef646b/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f2e27c4306c2623f7bbd60ed9d119c2599ef646b/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f2e27c4306c2623f7bbd60ed9d119c2599ef646b/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f2e27c4306c2623f7bbd60ed9d119c2599ef646b/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/anim/abc_tooltip_exit.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f2e27c4306c2623f7bbd60ed9d119c2599ef646b/output/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f2e27c4306c2623f7bbd60ed9d119c2599ef646b/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/anim/abc_tooltip_enter.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f2e27c4306c2623f7bbd60ed9d119c2599ef646b/output/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f2e27c4306c2623f7bbd60ed9d119c2599ef646b/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/8a1d558a37d9a6697c1fff2ea49e5eb52127624a/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f2e27c4306c2623f7bbd60ed9d119c2599ef646b/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f2e27c4306c2623f7bbd60ed9d119c2599ef646b/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/8a1d558a37d9a6697c1fff2ea49e5eb52127624a/output/res/anim/design_snackbar_out.xml"
+    }
+]

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:mediarouter-v7:25.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/eff23c35f7c1a2a04680c9c2ce0ef0a618c2f5ef/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/eff23c35f7c1a2a04680c9c2ce0ef0a618c2f5ef/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

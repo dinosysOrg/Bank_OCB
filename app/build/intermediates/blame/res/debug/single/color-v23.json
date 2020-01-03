@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f2e27c4306c2623f7bbd60ed9d119c2599ef646b/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f2e27c4306c2623f7bbd60ed9d119c2599ef646b/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f2e27c4306c2623f7bbd60ed9d119c2599ef646b/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f2e27c4306c2623f7bbd60ed9d119c2599ef646b/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f2e27c4306c2623f7bbd60ed9d119c2599ef646b/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f2e27c4306c2623f7bbd60ed9d119c2599ef646b/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/8a1d558a37d9a6697c1fff2ea49e5eb52127624a/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f2e27c4306c2623f7bbd60ed9d119c2599ef646b/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f2e27c4306c2623f7bbd60ed9d119c2599ef646b/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/nguyentruong/.android/build-cache/f2e27c4306c2623f7bbd60ed9d119c2599ef646b/output/res/color-v23/abc_btn_colored_text_material.xml"
+    }
+]

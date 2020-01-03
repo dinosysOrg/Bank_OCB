@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/Users/nguyentruong/git/dinovative/SoftTokenDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 8,
+                    "endOffset": 176
+                },
+                "from": {
+                    "file": "/Users/nguyentruong/.android/build-cache/b5a80560425ee295d570c913ad8141b7a4345ede/output/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 172,
+                        "endLine": 5,
+                        "endColumn": 8,
+                        "endOffset": 293
+                    }
+                }
+            }
+        ]
+    }
+]
